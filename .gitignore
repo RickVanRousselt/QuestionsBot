@@ -1,0 +1,8 @@
+bin
+obj
+*.dll
+*.pdb
+*.deps.json
+*.runtimeconfig.json
+web.config
+/.vs/AspNetCore-EchoBot-With-State/v15/Server/sqlite3
